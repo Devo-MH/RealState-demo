@@ -1,0 +1,30 @@
+
+> realestate-platform@1.0.0 dev
+> vite --port 5173 --strictPort --host 127.0.0.1
+
+[33mThe CJS build of Vite's Node API is deprecated. See https://vite.dev/guide/troubleshooting.html#vite-cjs-node-api-deprecated for more details.[39m
+
+  VITE v5.4.20  ready in 451 ms
+
+  ➜  Local:   http://127.0.0.1:5173/
+9:33:10 PM [vite] hmr update /src/components/Navbar/Navbar.jsx
+9:33:38 PM [vite] hmr update /src/components/Villa/SingleVilla.jsx
+9:34:01 PM [vite] hmr update /src/App.css
+9:34:22 PM [vite] hmr update /src/components/Navbar/Navbar.jsx
+9:34:22 PM [vite] hmr update /src/components/Villa/SingleVilla.jsx
+9:34:22 PM [vite] hmr update /src/App.css
+9:36:42 PM [vite] hmr update /src/components/Navbar/Navbar.jsx
+9:37:03 PM [vite] hmr update /src/App.css
+9:37:27 PM [vite] hmr update /src/components/Villa/SingleVilla.jsx
+9:37:31 PM [vite] ✨ new dependencies optimized: qrcode
+9:37:31 PM [vite] ✨ optimized dependencies changed. reloading
+9:38:23 PM [vite] hmr update /src/components/Navbar/Navbar.jsx
+9:38:23 PM [vite] hmr update /src/components/Villa/SingleVilla.jsx
+9:38:23 PM [vite] hmr update /src/App.css
+9:41:55 PM [vite] hmr update /src/components/Navbar/Navbar.jsx
+9:42:11 PM [vite] hmr update /src/App.css
+9:42:33 PM [vite] hmr update /src/components/Navbar/Navbar.jsx
+9:42:33 PM [vite] hmr update /src/App.css
+9:46:22 PM [vite] hmr update /src/components/Villa/SingleVilla.jsx
+9:46:30 PM [vite] hmr update /src/components/Villa/SingleVilla.jsx
+9:46:30 PM [vite] hmr update /src/components/Villa/SingleVilla.jsx

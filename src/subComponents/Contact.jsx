@@ -21,15 +21,15 @@ const SubContact = () => {
                             <span>House No.123 Sector A-1</span>
                         </div>
                         <ul>
-                            <Link to={"/facebook"} target="_blank">
+                            <a href="https://facebook.com" target="_blank" rel="noopener noreferrer">
                                 <RiFacebookBoxLine />
-                            </Link>
-                            <Link to={"/facebook"} target="_blank">
+                            </a>
+                            <a href="https://instagram.com" target="_blank" rel="noopener noreferrer">
                                 <RiFacebookBoxLine />
-                            </Link>
-                            <Link to={"/facebook"} target="_blank">
+                            </a>
+                            <a href="https://twitter.com" target="_blank" rel="noopener noreferrer">
                                 <RiFacebookBoxLine />
-                            </Link>
+                            </a>
                         </ul>
                     </div>
 

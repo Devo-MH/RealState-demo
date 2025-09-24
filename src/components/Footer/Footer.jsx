@@ -33,8 +33,8 @@ const Footer = () => {
         <div className="container">
           <h4>Connect with us</h4>
           <p>+44 548 954 2251</p>
-          <p>support@cent-finance.com</p>
-          <p>All Rights Reservsed By Cent-Finance</p>
+          <p>support@propertyrental.com</p>
+          <p>All Rights Reserved By Property Rental</p>
         </div>
       </footer>
     </>
